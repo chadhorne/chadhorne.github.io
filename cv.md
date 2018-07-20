@@ -7,11 +7,15 @@ permalink: /cv/
 ## Work
 
 # A. T. Still University - Oct 2015 to present
-- Manage the data system, reporting, and analytics for the Area Health Education Centers (AHEC) program in Missouri
-- Develop and maintain software tools for cleaning and merging data sets from different sources
-- Complete annual performance reports to the Department of Health and Human Services to demonstrate effectiveness of the Missouri AHEC program
-- Chair the Missouri AHEC Data Committee, coordinate monthly meetings to streamline data collection and reporting efforts
-- Provide user access and technical support for the Missouri AHEC data system
+- Manage data collection, reporting, and analytics for the Area Health Education Centers (AHEC) program in Missouri
+- Serve as database administrator for a Linux-based system, providing technical support and user access for all Missouri AHEC staff
+- Develop and maintain custom software tools for generating data reports and performing analyses with the R programming language
+- Create ad-hoc reports and visualizations using various R packages (dplyr, ggplot2, tidyr, shiny) and MySQL
+- Chair the Missouri AHEC Data Committee, coordinating monthly meetings to streamline data collection and reporting processes
+
+## Skills
+Data and Analysis: R, Python, SQL, Statistical Analysis, Predictive Modeling, ArcGIS
+Development: C++, Java, JavaScript, PHP, HTML, CSS, Linux, Git
 
 ## Education
 
