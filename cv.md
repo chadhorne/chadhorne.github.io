@@ -6,13 +6,19 @@ permalink: /cv/
 
 # __Work Experience__
 ---
-## A. T. Still University - Oct 2015 to present
+## Cerner - Sept 2018 to Present
+_Business Intelligence Developer_
+- Developed and maintained business intelligence tools and reports for internal stakeholders
+- Collaborated with business intelligence team on ReactJS UI development for a report catalog web app
+- Created Tableau reports to show application release trends over time
+
+## A. T. Still University - Oct 2015 to Sept 2018
 _AHEC Program Development & Data Manager_
-- Develop and maintain custom software tools for creating reports and analyses with the R programming language
-- Manage data collection, reporting, and analytics for the Area Health Education Centers (AHEC) program in Missouri
-- Serve as database administrator for a Linux-based system, providing technical support and user access for all Missouri AHEC staff
-- Create ad-hoc reports and visualizations using MySQL and various R packages (dplyr, ggplot2, tidyr, shiny)
-- Chair the Missouri AHEC Data Committee, convening monthly meetings to streamline data collection and reporting processes
+- Developed and maintained custom software tools for creating reports and analyses with the R programming language
+- Managed data collection, reporting, and analytics for the Area Health Education Centers (AHEC) program in Missouri
+- Served as database administrator for a Linux-based system, providing technical support and user access for all Missouri AHEC staff
+- Created ad-hoc reports and visualizations from a MySQL database using R (dplyr, ggplot2, tidyr, shiny)
+- Chaired the Missouri AHEC Data Committee, convening monthly meetings focused on streamlining data collection and reporting processes
 
 # __Education__
 ---
@@ -23,17 +29,15 @@ _AHEC Program Development & Data Manager_
 ## Course Work
 - Software Engineering
 - Internet Programming
-- Bioinformatics (Machine Learning)
+- Bioinformatics
 - Parallel and Distributed Processing
 - Database Systems
-- Statistics
-- Calculus
 
 # __Skills__
 ---
-**Development:** C++, Java, JavaScript, PHP, HTML, CSS, Linux, Git
+**Development:** ReactJS, PHP, HTML, CSS, Linux, Git, Docker
 
-**Data and Analysis:** R, Python, SQL, Statistical Analysis, Predictive Modeling, ArcGIS
+**Data and Analysis:** Python, R, Tableau, SQL Server, MySQL
 
 # __Projects__
 ---
