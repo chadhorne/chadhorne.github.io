@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# Hey, I'm Chad!
+# Hey, I'm Chad
 
-I'm a programmer and data science enthusiast. Currently I work for Cerner as a Business Intelligence Developer, where I develop and maintain business intelligence tools and reports. I love working with data and have a passion for deriving insights from messy data.
+I'm a programmer and data engineer.
+I work for Watco Companies where I build data integration pipelines for analytics.
+I love organizing data for deriving insights and am experienced in ETL development, SQL performance tuning, and data warehousing.
