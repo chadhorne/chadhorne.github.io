@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
-# Hey, I'm Chad
+# About page
 
-I build data integration pipelines for analytics.
-I love organizing data for deriving insights and have experience in ETL development, SQL performance tuning, and data warehousing.
+This page tells you a little bit about me.
