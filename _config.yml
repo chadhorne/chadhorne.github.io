@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Chad Horne"
   avatar           : "/assets/images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Experienced in data engineering and cloud data solutions, I analyze existing data systems and provide expertise on efficient design and implementation of enterprise data architectures."
+  bio              : "Experienced data engineer with expertise in enterprise data warehousing and cloud data systems"
   location         : "Sr. Data Engineer at Wavicle"
   email            :
   links:
@@ -224,8 +224,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
