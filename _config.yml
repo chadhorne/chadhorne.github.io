@@ -20,7 +20,7 @@ title                    : "Chad Horne"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chad Horne"
-description              : "I'm Chad Horne, Sr. Data Engineer and Data Consultant."
+description              : "I'm Chad Horne, Sr. Data Engineer and Cloud Data Consultant."
 url                      : "https://chadhorne.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chadhorne/chadhorne.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
