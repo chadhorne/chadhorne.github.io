@@ -21,7 +21,7 @@ and develop strategic roadmaps for cloud solution development.
 
 **Data Engineer -- Watco Companies**
 
-Feb. 2020 -- May 2022
+*Feb. 2020 -- May 2022*
 
 - Spearheaded the design and implementation of an enterprise data lake architecture with Databricks, resulting in
 improved data availability and reduced time to insights for the data analytics team.
