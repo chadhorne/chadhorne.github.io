@@ -9,6 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+# If you get a bunch of dependency errors try running
+# `gem uninstall -aIx` then `bundle install`
+# (from https://stackoverflow.com/questions/57236495/bundle-exec-jekyll-serve-dependency-error-yikes-it-looks-like-you-dont-have)
+
 # The 'github-pages' gem has a dependency on the 'unf' gem.
 # If bundle fails to install the 'github-pages' gem, 
 # try running `gem install unf`.
