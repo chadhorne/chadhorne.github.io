@@ -6,9 +6,15 @@ permalink: /resume
 
 ## Work Experience
 
+**Senior Data Engineer -- Henderson Engineers**
+
+*Feb. 2024 -- Present*
+
+- TBD
+
 **Senior Data Engineer -- Wavicle Data Solutions**
 
-*May 2022 -- Present*
+*May 2022 -- Feb. 2024*
 
 - Designed and implemented data pipelines in Azure Data Factory and Databricks to load data from REST APIs
 into an enterprise data lake, resulting in streamlined access to customer data for advanced analytics.

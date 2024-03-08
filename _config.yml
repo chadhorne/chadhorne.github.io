@@ -107,7 +107,7 @@ author:
   name             : "Chad Horne"
   avatar           : "/assets/images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Experienced data engineer with expertise in enterprise data warehousing and cloud data systems"
-  location         : "Sr. Data Engineer at Wavicle"
+  location         : "Sr. Data Engineer at Henderson"
   email            :
   links:
     - label: "LinkedIn"
