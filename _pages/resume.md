@@ -10,7 +10,7 @@ permalink: /resume
 
 *Feb. 2024 -- Present*
 
-- TBD
+- Built and maintained the Data Vault architecture for an enterprise data warehouse and data lake, providing access to historical data for data science and analytics initiatives.
 
 **Senior Data Engineer -- Wavicle Data Solutions**
 
@@ -69,7 +69,8 @@ across all Missouri AHEC locations.
 **Certifications:**
 
 - Microsoft Certified Azure Data Engineer Associate
+- Certified Data Vault 2.0 Practitioner
 - Academy Accreditation - Databricks Lakehouse Fundamentals
 - Astronomer Certification for Apache Airflow Fundamentals
 
-**Skills:** Python, SQL, R, JavaScript, Azure, ARM/BICEP, Databricks, Spark, Docker, Airflow, Linux, Git, SSIS, Data Warehousing, Data Lakes, Dimensional Modeling, Machine Learning, CI/CD, Agile Development
+**Skills:** Python, SQL, R, Azure, Databricks, Spark, dbt, Docker, Airflow, Dagster, ARM/BICEP, Linux, Git, SSIS, Data Warehousing, Data Lakes, Dimensional Modeling, Data Vault Modeling, Machine Learning, CI/CD, Agile Development
